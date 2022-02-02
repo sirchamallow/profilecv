@@ -1,0 +1,167 @@
+/* CSS */
+/*  ██████   ███████ ███████ */
+/*  ██      ██      ██       */
+/*  ██      ███████ ███████  */
+/*  ██           ██      ██  */
+/*  ██████  ███████ ███████  */
+
+/* BODY */
+/* background-color */
+body { 
+    background-color: white; 
+    font-family: 'Lato', sans-serif;
+    color: #black;
+    font-size: 23px;
+    line-height: 1;
+    text-align: center;
+    display: flex;
+}
+.profile-picture {
+    border-radius: 50%;
+}
+/* HEADERS */
+h1, h2, h3 {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    color: #1572A1
+    line-height: 1.2em;
+}
+/* H1 & H2 */
+h1 { 
+    font-size: 35px;
+}
+h2 { 
+    font-size: 30px;
+}
+/* DIV & BOX */
+.container {
+    width: 900px;                                  /* Set the width */
+    margin: 0 auto;                                /* Set automatic margins on right/left */
+    padding: 50px;
+    padding-bottom: 50px;
+}
+.card {
+    background: white;                           /* White background */
+    padding: 30px;                                 /* Internal space */
+    border-radius: 4px;                            /* Small radius */
+    box-shadow: 0 5px 10px rgba(0,0,0,.1);       /* Light shadow */                             
+}
+.card-footer {
+    list-style: none;
+    padding-left: 0px;
+}
+.list-inline > li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+/* LIENS */
+a { 
+    color: #1572A1;
+    text-decoration: none;
+}
+a:hover {
+    background-color: gold;
+}
+/* RESPONSIVE */
+@media (max-width: 960px) {
+  /* Pour un écran < 960px, cette classe CSS s'applique */
+  .container {
+    width: 700px;
+  }
+}
+/* TITRE H1 AVEC EFFET DE STYLE */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.gradient-text {
+  color: transparent;
+  background: conic-gradient(
+    #D9D7F1 12%, 
+    #BAABDA 12%, #BAABDA 33%, 
+    #E7FBBE 33%, #E7FBBE 55%, 
+    #FFCBCB 55%, #FFCBCB 70%, 
+    #B5DEFF 70%, #B5DEFF 87%, 
+    #F7D1BA 87%);
+  background-size: 50%;
+  background-clip: text;  
+  -webkit-background-clip: text;
+
+  animation: expand-rev 0.5s ease forwards;
+
+  cursor: pointer;
+}
+
+.gradient-text:hover {
+  animation: expand 0.5s ease forwards;
+}
+
+@keyframes expand {
+  0% {
+    background-size: 50%;
+    background-position: 0 0;
+  }
+  20% {
+    background-size: 55%;
+    background-position: 0 1em;
+  }
+  100% {
+    background-size: 325%;
+    background-position: -10em -4em;
+  }
+}
+
+@keyframes expand-rev {
+  0% {
+    background-size: 325%;
+    background-position: -10em -4em;
+  }
+  20% {
+    background-size: 55%;
+    background-position: 0 1em;
+  }
+  100% {
+    background-size: 50%;
+    background-position: 0 0;
+  }
+}
+
+/* BUTTON AVEC EFFET DE STYLE */
+.btn-ghost {
+  color: #4A4A4A;
+  border: 1px solid #4A4A4A;
+  padding: 8px 24px;
+  border-radius: 50px;
+  font-weight: lighter;
+  opacity: 0.6;
+  transition: opacity 0.3s ease;
+}
+
+.btn-ghost:hover {
+  opacity: 1;
+}
+
+.btn-flat {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background: #1EDD88;
+  transition: background 0.3s ease;
+}
+
+.btn-flat:hover {
+  background: #1BCB7F;
+  color: white;
+}
+
+.btn-gradient {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: linear-gradient(#167FFB, #0F60C4);
+  transition: background 0.3s ease;
+  border: 1px solid #0F60C4;
+}
+
+.btn-gradient:hover {
+  background: linear-gradient(#147EFF, #0F67DA);
+  color: white;
+}
