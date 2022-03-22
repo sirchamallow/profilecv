@@ -16,6 +16,7 @@ URL --> https://sirchamallow.github.io/profile
  - 2000 (3 semaines) : [TCL](https://www.tcl.fr/) - Maintenance matériel ferroviaire (unité de maintenance métro Ligne C)
 
 **🎓 Formation / Diplômes**
+- 2022 - Développeur Web - Le Wagon Lyon (Batch 818)
 - 2001-2005 - BAC PRO Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
 - 2001/2003 - CAP/BEP Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
 
