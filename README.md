@@ -13,10 +13,11 @@ URL --> https://sirchamallow.github.io/profile
 **🤔 Autres expériences**
 
  - 2001 (3 semaines) : Planet’Info - Montage & dépannage d’ordinateurs; conseil clientèle
- - 2000 (3 semaines) : [TCL](https://www.tcl.fr/) - Maintenance matériel ferroviaire (unité de maintenance métro Ligne C)
+ - 2000 (3 semaines) : [TCL](https://www.tcl.fr/) - Maintenance matériel ferroviaire (unité de maintenance métro de la Ligne C)
+ - 1999 (2 semaines) : Adi Ampère - Réalisation & installation d’enseignes lumineuses
 
 **🎓 Formation / Diplômes**
-- 2022 - Développeur Web - Le Wagon Lyon (Batch 818)
+- 2022 - Développeur Web - [Le Wagon Lyon](https://www.lewagon.com/fr/lyon) (Batch 818)
 - 2001-2005 - BAC PRO Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
 - 2001/2003 - CAP/BEP Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
 
