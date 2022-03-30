@@ -10,23 +10,37 @@ URL --> https://sirchamallow.github.io/profile
  - 2008-2008 - [EVASOL](https://www.evasol.fr/) - Technicien de raccordement électrique  panneaux solaires photovoltaïques
  - 2001-2007 - [ENGIE INEO](https://www.engie-solutions.com/fr) RHÔNE-ALPES AUVERGNE - Monteur/Câbleur – Chef d’équipe (N2P2)
   
-**🤔 Autres expériences**
+**🤔 Stages**
 
  - 2001 (3 semaines) : Planet’Info - Montage & dépannage d’ordinateurs; conseil clientèle
  - 2000 (3 semaines) : [TCL](https://www.tcl.fr/) - Maintenance matériel ferroviaire (unité de maintenance métro de la Ligne C)
  - 1999 (2 semaines) : Adi Ampère - Réalisation & installation d’enseignes lumineuses
 
 **🎓 Formation / Diplômes**
-- 2022 - Développeur Web - [Le Wagon Lyon](https://www.lewagon.com/fr/lyon) (Batch 818)
-- 2001-2005 - BAC PRO Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
-- 2001/2003 - CAP/BEP Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
+ - 2022 - Développeur Web - [Le Wagon Lyon](https://www.lewagon.com/fr/lyon) (Batch 818)
+ - 2001-2005 - BAC PRO Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
+ - 2001/2003 - CAP/BEP Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
 
 **Informations complémentaires**
 
-- 🎸**Loisirs** : jouer de la guitare électrique (une *Fender Telecaster Deluxe japonaise*), faire de la trottinette électrique 🛴
-- 🧐 Membre de l’association *[OpenFacto](https://openfacto.fr/)*, qui œuvre pour la promotion de la scène OSINT francophone.
-- 🎙️ Co-Créateur du podcast *[Un bar et j’y vais](https://unbaretjyvais.eu/)*, qui fait découvrir chaque mois un bar 🍻🍷 de la ville de Lyon
-- 🚗 Co-Rédacteur du compte twitter *[StartupAuto.club](https://twitter.com/startupautoclub)* , qui publie une veille professionnel sur l’automobile & la mobilité
+ - 🎸**Loisirs** : jouer de la guitare électrique (une *Fender Telecaster Deluxe japonaise*), faire de la trottinette électrique 🛴
+ - 🧐 Membre de l’association *[OpenFacto](https://openfacto.fr/)*, qui œuvre pour la promotion de la scène OSINT francophone.
+ - 🎙️ Co-Créateur du podcast *[Un bar et j’y vais](https://unbaretjyvais.eu/)*, qui fait découvrir chaque mois un bar 🍻🍷 de la ville de Lyon
+ - 🚗 Co-Rédacteur du compte twitter *[StartupAuto.club](https://twitter.com/startupautoclub)* , qui publie une veille professionnel sur l’automobile & la mobilité
+
+**📄 🤔 Autres expériences & Bénévolat**
+
+ - 2022 - Bénévole Conférence [*MixIT*](https://mixitconf.org).
+ - 2022 - Participant hackathon *[Make IT Happen](https://www.youtube.com/watch?v=g3ZbBtshkg0)*, le hackathon de la DSI du Groupe SEB
+ - 2019 - Bénévole Conférence [*BlendWebMix*](https://www.blendwebmix.com)
+ - 2017 - Juré lors du hackathon [*Hacka'Presse*](https://www.linkedin.com/pulse/hackapresse-inventons-ensemble-la-presse-agricole-de-demain-beaupel/) du SNPAR (Syndicat National de la Presse Agricole et Rurale). "
+ - 2017 - Bénévole Conférence [*BlendWebMix*](https://www.blendwebmix.com)
+ - 2015 - 2016 - Responsable hardware, community manager, gestion billetterie, staff du hackathon [*fHACKtory*](https://github.com/fhacktory)
+ - 2015 - Bénévole Conférence [*BlendWebMix*](https://www.blendwebmix.com)
+ - 2015 - Membre de la *Mission numérique [CCFI-RA](https://ccfiara.com) 2015* (Chambre de Commerce France–Israël de Rhône-Alpes)
+ - 2013 - Membre de l'équipe de community management à *[Museomix](https://www.museomix.org/)* au [Musée d'Art & d'Industrie de St-Etienne](https://www.museomix.org/editions/2014/saint-etienne-2014)
+ - 2013 - Bénévole & participant à *[Museomix](https://www.museomix.org/)* au Musée Dauphinois de Grenoble. Projet : [Histoire(s) de l'homme sauvage](https://www.museomix.org/editions/2013/grenoble-2013/prototypes/histoires-de-lhomme-sauvage)
+ - 2012 - Blogueur officiel du *[www2012](https://www2012.universite-lyon.fr) & [W4A'12](https://www.w4a.info/2012/)*, la conférence annuelle du [W3C](https://www.w3.org/).
 
 **📄 Distinctions**
 
