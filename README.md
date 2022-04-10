@@ -35,14 +35,14 @@ URL --> https://sirchamallow.github.io/profile
  - 2019 - Bénévole à la Conférence [*BlendWebMix*](https://www.blendwebmix.com)
  - 2017 - Juré lors du hackathon [*Hacka'Presse*](https://www.linkedin.com/pulse/hackapresse-inventons-ensemble-la-presse-agricole-de-demain-beaupel/) du SNPAR (Syndicat National de la Presse Agricole et Rurale). "
  - 2017 - Bénévole à la Conférence [*BlendWebMix*](https://www.blendwebmix.com)
- - 2016 - Blogueur pour le [*Festival International du Film de Comédie de l’Alpe  d’Huez*](https://www.festival-alpedhuez.com/)
+ - 2016 - Accréditation Blogueur pour le [*Festival International du Film de Comédie de l’Alpe  d’Huez*](https://www.festival-alpedhuez.com/)
  - 2015 - 2016 - Responsable hardware, community manager, gestion billetterie, staff du hackathon [*fHACKtory*](https://github.com/fhacktory)
  - 2015 - Bénévole Conférence [*BlendWebMix*](https://www.blendwebmix.com)
  - 2015 - Membre de la *Mission numérique [CCFI-RA](https://ccfiara.com) 2015* (Chambre de Commerce France–Israël de Rhône-Alpes)
  - 2013 - Membre de l'équipe de community management à *[Museomix](https://www.museomix.org/)* au [Musée d'Art & d'Industrie de St-Etienne](https://www.museomix.org/editions/2014/saint-etienne-2014)
  - 2013 - Bénévole & participant à *[Museomix](https://www.museomix.org/)* au Musée Dauphinois de Grenoble. Projet : [Histoire(s) de l'homme sauvage](https://www.museomix.org/editions/2013/grenoble-2013/prototypes/histoires-de-lhomme-sauvage)
- - 2013 - Blogueur pour le [*Festival – Lumière*](https://www.festival-lumiere.org)  2013
- - 2012 - Blogueur pour le [*Festival – Lumière*](https://www.festival-lumiere.org) 2012
+ - 2013 - Accréditation Blogueur pour le [*Festival – Lumière*](https://www.festival-lumiere.org)  2013
+ - 2012 - Accréditation Blogueur pour le [*Festival – Lumière*](https://www.festival-lumiere.org) 2012
  - 2012 - Blogueur officiel du *[www2012](https://www2012.universite-lyon.fr) & [W4A'12](https://www.w4a.info/2012/)*, la conférence annuelle du [W3C](https://www.w3.org/).
 
 **📄 Distinctions**
