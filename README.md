@@ -22,6 +22,10 @@ URL --> https://sirchamallow.github.io/profile
  - 2001-2005 - BAC PRO Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
  - 2001/2003 - CAP/BEP Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
 
+**📄 Réalisations**
+- Sourcing & test interne de matériel IoT dans le domaine du contrôle d'accès & de caméras ou capteurs de lectures de plaques d'immatriculations (LAPI / ANPR)
+- Packaging d'un coffret électrique (disjoncteur, relai pour contact sec, routeur iot etc.)
+
 **Informations complémentaires**
 
  - 🎸**Loisirs** : jouer de la guitare électrique (une *Fender Telecaster Deluxe japonaise*), faire de la trottinette électrique 🛴
