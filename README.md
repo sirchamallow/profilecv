@@ -44,7 +44,7 @@ URL --> https://sirchamallow.github.io/profile
  - 2015 - 2016 - Responsable hardware, community manager, gestion billetterie, staff du hackathon [*fHACKtory*](https://github.com/fhacktory)
  - 2015 - Bénévole Conférence [*BlendWebMix*](https://www.blendwebmix.com)
  - 2015 - Membre de la *Mission numérique [CCFI-RA](https://ccfiara.com) 2015* (Chambre de Commerce France–Israël de Rhône-Alpes)
- - 2013 - Membre de l'équipe de community management à *[Museomix](https://www.museomix.org/)* au [Musée d'Art & d'Industrie de St-Etienne](https://www.museomix.org/editions/2014/saint-etienne-2014)
+ - 2014 - Membre de l'équipe de community management à *[Museomix](https://www.museomix.org/)* au [Musée d'Art & d'Industrie de St-Etienne](https://www.museomix.org/editions/2014/saint-etienne-2014)
  - 2013 - Bénévole & participant à *[Museomix](https://www.museomix.org/)* au Musée Dauphinois de Grenoble. Projet : [Histoire(s) de l'homme sauvage](https://www.museomix.org/editions/2013/grenoble-2013/prototypes/histoires-de-lhomme-sauvage)
  - 2013 - Accréditation Blogueur pour le [*Festival – Lumière*](https://www.festival-lumiere.org)  2013
  - 2012 - Accréditation Blogueur pour le [*Festival – Lumière*](https://www.festival-lumiere.org) 2012
