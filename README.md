@@ -36,7 +36,7 @@ URL --> https://sirchamallow.github.io/profile
 **📄 🤔 Autres expériences & Bénévolat**
 
  - 2022 - Bénévole à la Conférence [*MixIT*](https://mixitconf.org).
- - 2022 - Participant au hackathon *[Make IT Happen](https://www.youtube.com/watch?v=g3ZbBtshkg0)*, le hackathon de la DSI du Groupe SEB
+ - 2022 - Participant au hackathon *[Make IT Happen](https://www.youtube.com/watch?v=NqIXsagaFII)*, le hackathon de la DSI du Groupe SEB
  - 2019 - Bénévole à la Conférence [*BlendWebMix*](https://www.blendwebmix.com)
  - 2017 - Juré lors du hackathon [*Hacka'Presse*](https://www.linkedin.com/pulse/hackapresse-inventons-ensemble-la-presse-agricole-de-demain-beaupel/) du SNPAR (Syndicat National de la Presse Agricole et Rurale)
  - 2017 - Bénévole à la Conférence [*BlendWebMix*](https://www.blendwebmix.com)
