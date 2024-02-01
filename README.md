@@ -3,7 +3,7 @@ URL --> https://sirchamallow.github.io/profile
 
 **💼 Expériences professionnelles**
 
- - 2022-2024 - [CLEVER CLOUD](https://www.clever-cloud.com) - Technicien Support
+ - 2022-2024 - [CLEVER CLOUD](https://www.clever-cloud.com) - Ingénieur Support
  - 2015-2021 - COPARK - Responsable Technique IoT & Exploitation
  - 2012-2015 - [ANAVEO](https://www.anaveo.fr) - Technicien SAV Europe - Helpdesk/Hotline
  - 2010-2012 - ENEDIS / UOI - Technicien / Opérateur National Habilitations
@@ -31,7 +31,6 @@ URL --> https://sirchamallow.github.io/profile
  - 🎸**Loisirs** : jouer de la guitare électrique (une *Fender Telecaster Deluxe japonaise*), faire de la trottinette électrique 🛴
  - 🧐 Membre de l’association *[OpenFacto](https://openfacto.fr/)*, qui œuvre pour la promotion de la scène OSINT francophone.
  - 🎙️ Co-Créateur du podcast *[Un bar et j’y vais](https://unbaretjyvais.eu/)*, qui fait découvrir chaque mois un bar 🍻🍷 de la ville de Lyon
- - 🚗 Co-Rédacteur du compte twitter *[StartupAuto.club](https://twitter.com/startupautoclub)* , qui publie une veille professionnel sur l’automobile & la mobilité
 
 **📄 🤔 Autres expériences & Bénévolat**
 
