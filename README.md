@@ -1,5 +1,4 @@
-Ceci est ma page profil complète sur GitHub Pages
-URL --> https://sirchamallow.github.io/profile
+Ceci est ma page profil
 
 **💼 Expériences professionnelles**
 
