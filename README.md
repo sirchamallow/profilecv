@@ -29,9 +29,9 @@ Ceci est ma page profil
 
 **Informations complémentaires**
 
- - 🎸**Loisirs** : jouer de la guitare électrique (une *Fender Telecaster Deluxe japonaise*), faire de la trottinette électrique 🛴
- - 🧐 Membre de l’association *[OpenFacto](https://openfacto.fr/)*, qui œuvre pour la promotion de la scène OSINT francophone.
- - 🎙️ Co-Créateur du podcast *[Un bar et j’y vais](https://unbaretjyvais.eu/)*, qui fait découvrir chaque mois un bar 🍻🍷 de la ville de Lyon
+ - **Loisirs** : jouer de la guitare électrique (une *Fender Telecaster Deluxe japonaise*), faire de la trottinette électrique 🛴
+ - Membre des associations *[OpenFacto](https://openfacto.fr)*, *[Internet Society France](https://www.isoc.fr)* et *[Network Time Foundation](https://support.ntp.org)*
+ - 🎙️ Co-Créateur du podcast *Un bar et j’y vais*, qui fait découvrir chaque mois un bar 🍻🍷 de la ville de Lyon
 
 **📄 🤔 Autres expériences & Bénévolat**
 
