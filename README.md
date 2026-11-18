@@ -2,28 +2,31 @@ Ceci est ma page profil
 
 **💼 Expériences professionnelles**
 
- - 2025-xxxx - ATOS - Technicien Support
- - 2025-2025 - QO-UP x AVEM - Technicien Support Informatique & Proximité
+ - 2025-xxxx - [ATOS](https://www.atos.ai) x [REGION AUVERGNE-RHONE-ALPES](https://www.auvergnerhonealpes.fr) - Technicien Support Systèmes & Réseaux
+ - 2025-2025 - [QO-UP](https://qo-up.com) x [AVEM](https://www.avem-groupe.com) - Technicien Support Informatique & Proximité
  - 2022-2024 - [CLEVER CLOUD](https://www.clever-cloud.com) - Technicine Support Cloud Computing
  - 2015-2021 - COPARK - Responsable Technique IoT & Exploitation
  - 2012-2015 - [ANAVEO](https://www.anaveo.fr) - Technicien Support Informatique
- - 2010-2012 - ECONOCOM x ENEDIS/UOI - Opérateur National Habilitations
+ - 2010-2012 - [ECONOCOM](https://www.econocom.com) x ENEDIS/UOI - Opérateur National Habilitations
  - 2008-2010 - [STANLEY SECURITY SYSTEMS](https://www.stanleysecurity.fr) - Technicien Support Helpdesk SAV
  - 2008-2008 - [EVASOL](https://www.evasol.fr) - Technicien de raccordement électrique  panneaux solaires photovoltaïques
  - 2001-2007 - [ENGIE INEO](https://www.engie-solutions.com/fr) RHÔNE-ALPES AUVERGNE - Monteur/Câbleur – Chef d’équipe (N2P2)
   
 **🤔 Stages**
+
  - 2001 (3 semaines) : Planet’Info - Montage & dépannage d’ordinateurs; conseil clientèle
  - 2000 (3 semaines) : [TCL](https://www.tcl.fr/) - Maintenance matériel ferroviaire (unité de maintenance métro de la Ligne C)
  - 1999 (2 semaines) : Adi Ampère - Réalisation & installation d’enseignes lumineuses
 
 **🎓 Formation / Diplômes**
+
  - 2022 - Apple Foundation Program - Développement mobile iOS - [Simplon Lyon](https://simplon.co/formation/foundation/24)
  - 2022 - Développeur Web - [Le Wagon Lyon](https://www.lewagon.com/fr/lyon) (Batch 818)
  - 2001-2005 - BAC PRO Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
  - 2001/2003 - CAP/BEP Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
 
 **📄 Réalisations**
+
 - Sourcing & test interne de matériel IoT dans le domaine du contrôle d'accès & de caméras ou capteurs de lectures de plaques d'immatriculations (LAPI / ANPR)
 - Packaging d'un coffret électrique (disjoncteur, relai pour contact sec, routeur iot etc.)
 
@@ -31,7 +34,7 @@ Ceci est ma page profil
 
  - **Loisirs** : jouer de la guitare électrique (une *Fender Telecaster Deluxe japonaise*), faire de la trottinette électrique 🛴
  - Membre des associations *[OpenFacto](https://openfacto.fr)*, *[Internet Society France](https://www.isoc.fr)* et *[Network Time Foundation](https://support.ntp.org)*
- - 🎙️ Co-Créateur du podcast *Un bar et j’y vais*, qui fait découvrir chaque mois un bar 🍻🍷 de la ville de Lyon
+ - 🎙️ Co-Créateur du podcast *Un bar et j’y vais*, qui fait découvrir un bar 🍻🍷 de la ville de Lyon (projet terminée)
 
 **📄 🤔 Autres expériences & Bénévolat**
 
